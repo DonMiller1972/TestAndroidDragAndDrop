@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Drug and Drop Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Drug and Drop Test(failed)">
+    <classes>
+      <class name="TestDragAndDrop">
+        <methods>
+          <include name="congrats"/>
+          <include name="setUp"/>
+          <include name="puzzle4"/>
+          <include name="puzzle1"/>
+        </methods>
+      </class> <!-- TestDragAndDrop -->
+    </classes>
+  </test> <!-- Drug and Drop Test(failed) -->
+</suite> <!-- Failed suite [Drug and Drop Suite] -->
