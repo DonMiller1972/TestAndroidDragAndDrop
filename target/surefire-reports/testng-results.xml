@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-08T21:24:16 EEST" name="Drug and Drop Suite" finished-at="2024-04-08T21:25:16 EEST" duration-ms="60017">
+    <groups>
+    </groups>
+    <test started-at="2024-04-08T21:24:16 EEST" name="Drug and Drop Test" finished-at="2024-04-08T21:25:16 EEST" duration-ms="60017">
+      <class name="TestDragAndDrop">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestDragAndDrop@77128536]" started-at="2024-04-08T21:24:16 EEST" name="setUp" finished-at="2024-04-08T21:24:36 EEST" duration-ms="20137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testRobotBuilding()[pri:0, instance:TestDragAndDrop@77128536]" started-at="2024-04-08T21:24:36 EEST" name="testRobotBuilding" finished-at="2024-04-08T21:25:13 EEST" duration-ms="37099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRobotBuilding -->
+        <test-method is-config="true" signature="congratsAndQuit()[pri:0, instance:TestDragAndDrop@77128536]" started-at="2024-04-08T21:25:14 EEST" name="congratsAndQuit" finished-at="2024-04-08T21:25:16 EEST" duration-ms="2157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- congratsAndQuit -->
+      </class> <!-- TestDragAndDrop -->
+    </test> <!-- Drug and Drop Test -->
+  </suite> <!-- Drug and Drop Suite -->
+</testng-results>
